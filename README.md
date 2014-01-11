@@ -1,2 +1,2 @@
-chenjing.github.io
+chenjing.github.com
 ==================
