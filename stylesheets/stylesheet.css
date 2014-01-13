@@ -94,7 +94,10 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  
+  font-size: 17px;
+  font-family:Arial;
+  margin: 5px 0 5px 0;
 }
 
 footer p {
